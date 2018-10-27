@@ -1,0 +1,10 @@
+D:\dev\PassPro\PassPro\bin\Debug\PassPro.exe.config
+D:\dev\PassPro\PassPro\bin\Debug\PassPro.exe
+D:\dev\PassPro\PassPro\bin\Debug\PassPro.pdb
+D:\dev\PassPro\PassPro\obj\Debug\PassPro.csprojAssemblyReference.cache
+D:\dev\PassPro\PassPro\obj\Debug\PassPro.Form1.resources
+D:\dev\PassPro\PassPro\obj\Debug\PassPro.Properties.Resources.resources
+D:\dev\PassPro\PassPro\obj\Debug\PassPro.csproj.GenerateResource.cache
+D:\dev\PassPro\PassPro\obj\Debug\PassPro.csproj.CoreCompileInputs.cache
+D:\dev\PassPro\PassPro\obj\Debug\PassPro.exe
+D:\dev\PassPro\PassPro\obj\Debug\PassPro.pdb
